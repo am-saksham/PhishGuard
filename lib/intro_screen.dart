@@ -63,7 +63,7 @@ class IntroPage extends StatelessWidget {
                 // Navigate to OnboardingScreen when clicked
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => OnboardingPageOne()),
+                  MaterialPageRoute(builder: (context) =>  OnboardingPageOne()),
                 );
               },
               child: Text(
