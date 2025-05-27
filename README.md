@@ -1,6 +1,6 @@
 # 🛡️ PhishGuard
 
-**AI-powered phishing detection app** built with Flutter, designed to detect and block malicious URLs in real-time. Winner of the **MP Police Cyber Security Hackathon 2025** (1st place among 350+ teams).
+**AI-powered phishing detection app** built with Flutter, designed to detect and block malicious URLs in real-time.
 
 ---
 
@@ -41,14 +41,6 @@
 - Sandboxed URL Execution  
 - Token-based API Access  
 - Input Validation and URL Encoding
-
----
-
-## 🏆 Achievements
-
-- 🥇 **1st Place**, MP Police Cyber Security Hackathon 2025  
-- 🏆 **Felicitated by MP Police Officials**: DIG, ADCP, and ACP  
-- 🎓 **Recognized by VIT Bhopal University** for excellence in cybersecurity innovation
 
 ---
 
