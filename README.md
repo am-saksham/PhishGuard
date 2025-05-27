@@ -1,6 +1,7 @@
 # 🛡️ PhishGuard
 
-**AI-powered phishing detection app** built with Flutter, designed to detect and block malicious URLs in real-time.
+**AI-powered phishing detection app** built with Flutter to scan and secure links clicked across the device—automatically and in real time.**
+
 
 ---
 
