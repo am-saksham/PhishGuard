@@ -1,20 +1,47 @@
 # 🛡️ PhishGuard
 
-**AI-powered phishing detection app** built with Flutter to scan and secure links clicked across the device—automatically and in real time.**
-
+**AI-powered phishing detection app** built with Flutter to scan and secure links clicked across the device—automatically and in real time.
 
 ---
 
 ## 🚀 Features
 
-- 🔍 **Real-time URL Scanning** – Detects phishing links with over 92% accuracy.
-- 🧠 **AI-Powered Risk Score** – Scores each URL from 0–100 based on threat level.
-- 🌐 **Click-to-Scan From Any App** – Automatically detects and scans links clicked anywhere on the device, even if the PhishGuard app is not open.
-- 🛡️ **In-App Secure Browser** – Opens verified links within a protected browser environment.
-- 🚨 **Phishing Report System** – Allows users to report suspicious links in one tap.
-- 🔒 **SSL Pinning** – Protects against man-in-the-middle attacks.
-- ⚡ **Optimized Performance** – URL scan time reduced from 5s to 2.3s.
-- 🔁 **Secure API Integration** – RESTful APIs with token authentication.
+- 🔍 **Real-Time URL Scanning**  
+  Detects phishing links with over **92% accuracy** using AI-powered REST APIs.
+
+- 🌐 **Click-to-Scan From Any App**  
+  Automatically scans links clicked **anywhere on the device** (browser, SMS, chat apps) **even if PhishGuard is not open**.
+
+- 🧠 **AI-Powered Risk Score (0–100)**  
+  Instantly assigns a threat level to every URL so users can make informed decisions.
+
+- 🛡️ **In-App Secure Browser**  
+  Opens verified URLs in a **sandboxed** browser to prevent redirection exploits.
+
+- 🚨 **One-Tap Phishing Reports**  
+  Community-driven reporting system to flag suspicious links and improve safety for all users.
+
+- ⚡ **Fast Performance**  
+  URL scan time reduced from **5s to 2.3s**, ensuring a smooth experience.
+
+- 🔒 **Security First**  
+  SSL pinning, sandboxed link execution, and secure API communication.
+
+---
+
+## 🆚 Compared to Airtel Safe Internet
+
+| Feature                            | Airtel Safe Internet      | PhishGuard                          |
+|------------------------------------|----------------------------|-------------------------------------|
+| Platform Dependency                | Only for Airtel users      | Works on **any network/device**     |
+| Device-wide Link Detection         | ✅                          | ✅                                   |
+| AI Risk Scoring (0–100)            | ❌                          | ✅                                   |
+| In-App Secure Browser              | ❌                          | ✅                                   |
+| One-Tap Community Reporting        | ❌                          | ✅                                   |
+| Works Offline / Custom APIs        | ❌                          | ✅                                   |
+| Open Source / Developer Access     | ❌                          | ✅ *(GitHub Repository)*            |
+
+> ⚡ **PhishGuard** brings carrier-independent, developer-first, AI-enhanced security to all users, regardless of SIM or service provider.
 
 ---
 
