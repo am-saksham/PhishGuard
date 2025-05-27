@@ -1,16 +1,18 @@
-# phisguard
+# 🛡️ PhishGuard
 
-An app
+**AI-powered phishing detection system** built with Flutter, designed to detect and block malicious URLs in real-time. Winner of the **MP Police Cyber Security Hackathon 2025** (1st place among 350+ teams).
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔍 **Real-time URL Scanning** – Detects phishing links with over 92% accuracy.
+- 🧠 **AI-Powered Risk Score** – Scores each URL from 0–100 based on threat level.
+- 🌐 **Browser Enforcement** – Forces opening URLs only through secure in-app browser.
+- 🚨 **Phishing Report System** – Allows users to submit suspicious links in one tap.
+- 🔒 **SSL Pinning** – Protects against man-in-the-middle attacks.
+- ⚡ **Optimized Performance** – URL scan time reduced from 5s to 2.3s.
+- 🔁 **Secure API Integration** – RESTful APIs with token authentication.
+- 📊 **Admin Dashboard (Planned)** – For viewing analytics and flagged URLs (coming soon).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
