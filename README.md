@@ -8,11 +8,56 @@
 
 - 🔍 **Real-time URL Scanning** – Detects phishing links with over 92% accuracy.
 - 🧠 **AI-Powered Risk Score** – Scores each URL from 0–100 based on threat level.
-- 🌐 **Browser Enforcement** – Forces opening URLs only through secure in-app browser.
-- 🚨 **Phishing Report System** – Allows users to submit suspicious links in one tap.
+- 🌐 **Click-to-Scan From Any App** – Automatically detects and scans links clicked anywhere on the device, even if the PhishGuard app is not open.
+- 🛡️ **In-App Secure Browser** – Opens verified links within a protected browser environment.
+- 🚨 **Phishing Report System** – Allows users to report suspicious links in one tap.
 - 🔒 **SSL Pinning** – Protects against man-in-the-middle attacks.
 - ⚡ **Optimized Performance** – URL scan time reduced from 5s to 2.3s.
 - 🔁 **Secure API Integration** – RESTful APIs with token authentication.
-- 📊 **Admin Dashboard (Planned)** – For viewing analytics and flagged URLs (coming soon).
 
 ---
+
+## 📱 Screenshots
+
+| Home Screen | Scan Result | Report Phishing |
+|-------------|-------------|-----------------|
+| ![Home](screenshots/home.png) | ![Scan](screenshots/scan_result.png) | ![Report](screenshots/report.png) |
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter & Dart** – Cross-platform frontend
+- **Firebase & Firestore** – Realtime backend & authentication
+- **Node.js + Express.js** – RESTful API services
+- **MongoDB Atlas** – Cloud-hosted NoSQL database
+- **Google Safe Browsing API** – Threat intelligence layer
+- **EmailJS** – OTP-based agent login (RESCUE variant)
+- **Google Maps API** – Location tracking (used in RESCUE extension)
+
+---
+
+## 🔐 Security Measures
+
+- SSL Pinning  
+- Sandboxed URL Execution  
+- Token-based API Access  
+- Input Validation and URL Encoding
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **1st Place**, MP Police Cyber Security Hackathon 2025  
+- 🏆 **Felicitated by MP Police Officials**: DIG, ADCP, and ACP  
+- 🎓 **Recognized by VIT Bhopal University** for excellence in cybersecurity innovation
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/am-saksham/PhishGuard.git
+cd phish-guard
+flutter pub get
+flutter run
