@@ -21,7 +21,7 @@
 
 | Home Screen | Scan Result | Report Phishing |
 |-------------|-------------|-----------------|
-| ![Home](screenshots/home.png) | ![Scan](screenshots/scan_result.png) | ![Report](screenshots/report.png) |
+| ![Home](assets/home.png) | ![Scan](assets/scan.png) | ![Report](assets/report.png) |
 
 ---
 
