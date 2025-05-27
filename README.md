@@ -45,6 +45,21 @@
 
 ---
 
+## 💰 Funding & Support Needed
+
+While PhishGuard is already functional and proven, **additional funding is essential** for:
+
+- Enhancing AI model accuracy and threat detection
+- Expanding and maintaining a dynamic phishing URL dataset
+- Scaling API infrastructure for high-volume usage
+- Publishing on **Google Play Store** and **Apple App Store**
+- Covering developer program fees, compliance costs, and store listing optimization
+- Marketing to reach our target of 10,000+ active users in the first phase
+
+> 💡 If you’re an investor, university, or organization interested in digital safety, **we’d love to collaborate and scale PhishGuard to production**.
+
+---
+
 ## 📱 Screenshots
 
 | Home Screen | Scan Result | Report Phishing |
