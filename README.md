@@ -27,13 +27,11 @@
 
 ## 🛠️ Tech Stack
 
-- **Flutter & Dart** – Cross-platform frontend
-- **Firebase & Firestore** – Realtime backend & authentication
-- **Node.js + Express.js** – RESTful API services
-- **MongoDB Atlas** – Cloud-hosted NoSQL database
-- **Google Safe Browsing API** – Threat intelligence layer
-- **EmailJS** – OTP-based agent login (RESCUE variant)
-- **Google Maps API** – Location tracking (used in RESCUE extension)
+- **Flutter & Dart** – UI development
+- **Node.js + Express.js** – Backend REST APIs
+- **MongoDB Atlas** – Threat database
+- **Google Safe Browsing API** – URL threat evaluation
+- **Platform-specific Intents/Listeners** – For intercepting link clicks across the device
 
 ---
 
